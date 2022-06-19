@@ -1,3 +1,5 @@
 .vscode
 *.pyc
-
+netanim*
+*.pcap
+ns-3.32/build
